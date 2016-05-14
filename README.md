@@ -1,1 +1,3 @@
-# learn_rust_roadmap
+# Rust概念梳理
+
+如有问题，欢迎修正！
